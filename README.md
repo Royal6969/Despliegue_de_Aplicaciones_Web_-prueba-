@@ -33,15 +33,17 @@ Como referencia directa, quisiera dejar el siguiente enlace con el que podrás d
 
 ## Condiciones y forma de pago
 
-El precio para entrar en el repositorio privado y completo es de 100€ (pago único y unipersonal). Para realizar el pago, debes contactarme por email a  "sergiodiazcampos@gmail.com", y una vez ahí, detallaremos el medio de pago.
+El precio para entrar en el repositorio privado y completo es de 100€ (pago único y unipersonal). Para realizar el pago, debes contactarme por email a  "sergiodiazcampos@gmail.com", y una vez ahí, detallaremos el medio de pago (transferencia bancaria o bizum).
+
+### Oferta alumnos del Colegio Altair
 
 Si eres alumno del Colegio Altair, toda tu clase obtiene un 20% de descuento (100€ - 20€ = 80€), y el precio del repositorio pasaría a ser la cantidad total de un crowdfounding.
 
-Ese crowdfounding consiste en lo siguiente. El alumno de la clase que quiera participar, puede contactar conmigo por email a "sergiodiazcampos@gmail.com", y en esa conversación por email, le facilitaré un número de cuenta bancaria a la que poder hacer una tranferencia, o bien un número de teléfono al que poder hacer un bizum. 
+Ese crowdfounding consiste en lo siguiente. El alumno de la clase que quiera participar, puede contactar conmigo por email a "sergiodiazcampos@gmail.com", y le facilitaré un número de cuenta bancaria a la que poder hacer una tranferencia, o bien un número de teléfono al que poder hacer un bizum. 
 
 Mediante cualquiera de las dos vías, para hacer la aportación, ésta tendrá que ser realizada de forma individual y unipersonal, es decir, un alumno sólo puede realizar una sola aportación y únicamente en su propio nombre.
 
-En el concepto de la operación debe figurar obligatoria y correctamente, el nombre y apellidos del alumno, así como su usuario en GitHub. La cantidad mínima de una aportación debe ser de 5€. De no cumplir alguno de estos requisitos, la aportación será rechaza y devuelta inmediatamente, sin contar para el progreso del crowdfounding.
+En el concepto de la operación debe figurar obligatoria y correctamente, el nombre y apellidos del alumno, así como su usuario en GitHub. La cantidad mínima de una aportación debe ser de 5€ (sin máximo). De no cumplir alguno de estos requisitos, la aportación será rechaza y devuelta inmediatamente, sin contar para el progreso del crowdfounding.
 
 Cada aportación recibida será comprobada, y en base a ello, podrá ser aceptada o rechazada. Todas las aportaciones recibidas serán registradas y anotadas, y se irá comunicando el progreso del crowdfounding a través del email o teléfono.
 
