@@ -30,3 +30,21 @@ Con todo esto, quiero decir que, el alumno tiene la obligación de obedecer las 
 Este repositorio puede servir en algún caso al alumnado, como una ayuda extra y/o guía complementaria al curso del profesor en LDTS, pero en ningún caso y bajo ninguna circunstancia este repositorio debe convertirse en una guía que reemplace o sustituya al propio curso del profesor. Por otro lado, y teniendo en cuenta todo esto, yo (Sergio Díaz) no me responsabilizo de cualquier posible suspenso de un alumno que tan sólo haya seguido este repositorio para realizar toda la asignatura.
 
 Como referencia directa, quisiera dejar el siguiente enlace con el que podrás dirigirte al curso del profesor que compone esta asignatura, y el cual tendrás que seguir y superar obligatoriamente para aprobar: https://lab.ldts.es/course/servidores-web-avanzado/
+
+## Condiciones y forma de pago
+
+El precio para entrar en el repositorio privado y completo es de 100€ (pago único y unipersonal). Para realizar el pago, debes contactarme por email a  "sergiodiazcampos@gmail.com", y una vez ahí, detallaremos el medio de pago.
+
+Si eres alumno del Colegio Altair, toda tu clase obtiene un 20% de descuento (100€ - 20€ = 80€), y el precio del repositorio pasaría a ser la cantidad total de un crowdfounding.
+
+Ese crowdfounding consiste en lo siguiente. El alumno de la clase que quiera participar, puede contactar conmigo por email a "sergiodiazcampos@gmail.com", y en esa conversación por email, le facilitaré un número de cuenta bancaria a la que poder hacer una tranferencia, o bien un número de teléfono al que poder hacer un bizum. 
+
+Mediante cualquiera de las dos vías, para hacer la aportación, ésta tendrá que ser realizada de forma individual y unipersonal, es decir, un alumno sólo puede realizar una sola aportación y únicamente en su propio nombre.
+
+En el concepto de la operación debe figurar obligatoria y correctamente, el nombre y apellidos del alumno, así como su usuario en GitHub. La cantidad mínima de una aportación debe ser de 5€. De no cumplir alguno de estos requisitos, la aportación será rechaza y devuelta inmediatamente, sin contar para el progreso del crowdfounding.
+
+Cada aportación recibida será comprobada, y en base a ello, podrá ser aceptada o rechazada. Todas las aportaciones recibidas serán registradas y anotadas, y se irá comunicando el progreso del crowdfounding a través del email o teléfono.
+
+Una vez alcanzada la cantidad total de 80€, se enviará una invitación al repositorio privado y completo de la asignatura, al usuario de GitHub que figura en el concepto de la aportación realizada por cada alumno.
+
+Cláusula de rescisión: Este crowdfounding está programado para activarse el día 15 de septiembre, y se cierra el día 15 de febrero, teniendo así una duración máxima de cinco meses. Si al llegar el día 15 de febrero, no se ha alcanzado la cantidad total de 80€, el crowdfounding se cancelará, y todas las aportaciones serán devueltas íntegramente a los mismos medios de pago (tranferencia bancaria o bizum) de los alumnos que las realizaron, en un plazo máximo de 5 días hábiles.
