@@ -33,7 +33,7 @@ Como referencia directa, quisiera dejar el siguiente enlace con el que podrás d
 
 ## Condiciones y forma de pago
 
-El precio para entrar en el repositorio privado y completo es de 100€ (pago único y unipersonal). Para realizar el pago, debes contactarme por email a  "sergiodiazcampos@gmail.com", y una vez ahí, detallaremos el medio de pago (transferencia bancaria o bizum).
+El precio para entrar en el repositorio privado y completo es de 100€ (pago único y unipersonal). Para realizar el pago, debes contactarme por email a  "sergiodiazcampos@gmail.com", y detallaremos el medio de pago (transferencia bancaria o bizum).
 
 ### Oferta para alumnos del Colegio Altair
 
