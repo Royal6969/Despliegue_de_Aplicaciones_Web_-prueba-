@@ -35,7 +35,7 @@ Como referencia directa, quisiera dejar el siguiente enlace con el que podrás d
 
 El precio para entrar en el repositorio privado y completo es de 100€ (pago único y unipersonal). Para realizar el pago, debes contactarme por email a  "sergiodiazcampos@gmail.com", y una vez ahí, detallaremos el medio de pago (transferencia bancaria o bizum).
 
-### Oferta alumnos del Colegio Altair
+### Oferta para alumnos del Colegio Altair
 
 Si eres alumno del Colegio Altair, toda tu clase obtiene un 20% de descuento (100€ - 20€ = 80€), y el precio del repositorio pasaría a ser la cantidad total de un crowdfounding.
 
@@ -43,10 +43,14 @@ Ese crowdfounding consiste en lo siguiente. El alumno de la clase que quiera par
 
 Mediante cualquiera de las dos vías, para hacer la aportación, ésta tendrá que ser realizada de forma individual y unipersonal, es decir, un alumno sólo puede realizar una sola aportación y únicamente en su propio nombre.
 
-En el concepto de la operación debe figurar obligatoria y correctamente, el nombre y apellidos del alumno, así como su usuario en GitHub. La cantidad mínima de una aportación debe ser de 5€ (sin máximo). De no cumplir alguno de estos requisitos, la aportación será rechaza y devuelta inmediatamente, sin contar para el progreso del crowdfounding.
+En el concepto de la operación debe figurar el nombre y apellidos del alumno, así como su usuario en GitHub (de no poder escribir el usuario de GitHub en el concepto de la operación bancaria, puedes detallarlo e vía email). 
+
+La cantidad mínima de una aportación no debe ser inferior a 5€ (sin máximo). De no cumplir alguno de estos requisitos, la aportación será rechaza y devuelta inmediatamente, sin contar para el progreso del crowdfounding.
 
 Cada aportación recibida será comprobada, y en base a ello, podrá ser aceptada o rechazada. Todas las aportaciones recibidas serán registradas y anotadas, y se irá comunicando el progreso del crowdfounding a través del email o teléfono.
 
 Una vez alcanzada la cantidad total de 80€, se enviará una invitación al repositorio privado y completo de la asignatura, al usuario de GitHub que figura en el concepto de la aportación realizada por cada alumno.
 
 Cláusula de rescisión: Este crowdfounding está programado para activarse el día 15 de septiembre, y se cierra el día 15 de febrero, teniendo así una duración máxima de cinco meses. Si al llegar el día 15 de febrero, no se ha alcanzado la cantidad total de 80€, el crowdfounding se cancelará, y todas las aportaciones serán devueltas íntegramente a los mismos medios de pago (tranferencia bancaria o bizum) de los alumnos que las realizaron, en un plazo máximo de 5 días hábiles.
+
+Si por cualquier motivo o circunstancia, no participases en el crowdfounding con tus compañeros de clase, y una vez alcanzada la meta monetaria del mismo, a posteriori quisieras acceder también al repositorio, podrás hacerlo por un precio de 10€, mediante un único pago (individual y unipersonal) vía trasnferencia bancaria o bizum, detallando tus datos por email.
