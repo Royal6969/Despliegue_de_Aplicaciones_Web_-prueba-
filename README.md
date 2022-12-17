@@ -54,13 +54,3 @@ Una vez alcanzada la cantidad total de 80€, se enviará una invitación al rep
 Cláusula de rescisión: Este crowdfounding está programado para activarse el día 15 de septiembre, y se cierra el día 15 de febrero, teniendo así una duración máxima de cinco meses. Si al llegar el día 15 de febrero, no se ha alcanzado la cantidad total de 80€, el crowdfounding se cancelará, y todas las aportaciones serán devueltas íntegramente a los mismos medios de pago (tranferencia bancaria o bizum) de los alumnos que las realizaron, en un plazo máximo de 5 días hábiles.
 
 Si por cualquier motivo o circunstancia, no participases en el crowdfounding con tus compañeros de clase, y una vez alcanzada la meta monetaria del mismo, a posteriori quisieras acceder también al repositorio, podrás hacerlo por un precio de 10€, mediante un único pago (individual y unipersonal) vía trasnferencia bancaria o bizum, detallando tus datos por email.
-
-## GNU Free Documentation License
-
-Copyright (C)  2022  Sergio Díaz Campos.
-    Permission is granted to copy, distribute and/or modify this document
-    under the terms of the GNU Free Documentation License, Version 1.3
-    or any later version published by the Free Software Foundation;
-    with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts.
-    A copy of the license is included in the section entitled "GNU
-    Free Documentation License".
